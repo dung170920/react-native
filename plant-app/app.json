@@ -1,10 +1,4 @@
 {
-  "expo": {
-    "name": "plant-app",
-    "slug": "plant-app",
-    "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
-  }
+  "name": "PlantAppExploration",
+  "displayName": "PlantAppExploration"
 }
