@@ -1,4 +1,4 @@
-# LCRN02 - Plant App
+# Plant App
 
 ## [Watch it on YouTube](https://youtu.be/c-NfKd1iVwE)
 
@@ -8,13 +8,6 @@ Be sure to subscribe to our YouTube channel for more videos like this!
 
 ## Table of Contents
 
-| Code | Project | Preview | Inspiration | No. of Screens |
-| ------ | ------ | ------ | ------ | ------ |
-| LCRN02 | [Plant App](https://youtu.be/c-NfKd1iVwE) | <img src="https://static.dribbble.com/users/1909255/screenshots/6910440/frame_4x.png?compress=1&resize=1200x900" width="120" /> | [View](https://dribbble.com/shots/6910440-Plant-App-Exploration?fbclid=IwAR30hKStojUl5wTjMVv-EtvYT40UJ551V-L9gyaqNL4LOQ6vmRkUKGwXYTE) | 2 |
-
-## Contributors
-
-<a href="https://github.com/byprogrammers/LCRN02-plant-app-exploration/graphs/contributors">
-   <img src="https://contrib.rocks/image?repo=byprogrammers/lets-code-react-native" />
-</a>
-
+| Project | Preview | No. of Screens |
+|-------- | ------ | ------ |
+|Plant App | <img src="https://static.dribbble.com/users/1909255/screenshots/6910440/frame_4x.png?compress=1&resize=1200x900" width="120" /> (https://dribbble.com/shots/6910440-Plant-App-Exploration?fbclid=IwAR30hKStojUl5wTjMVv-EtvYT40UJ551V-L9gyaqNL4LOQ6vmRkUKGwXYTE) | 2 |
